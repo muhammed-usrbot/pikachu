@@ -72,7 +72,7 @@ Click WA logo to Join Support Group 👇
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA)
  
  <div align="left">
   
