@@ -82,7 +82,9 @@ Click Pikachu logo to Join Support Group 2👇
  <div align="left">
   
   If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
-```bash <(curl -L https://t.ly/tHxh)```
+```
+bash <(curl -L https://t.ly/tHxh)
+```
             
 ### The Hard Method
 ```js
