@@ -1,11 +1,11 @@
-<a href="https://bit.ly/3koZRGY"><img src="WLCMTRS.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="WLCMTRS1.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="TEFXG.gif" alt="GIF" width="200" height="200"/>
 </p>
 
 <div align="center">
 
-## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=899AFF&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
