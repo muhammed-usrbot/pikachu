@@ -1,14 +1,14 @@
 {
-  "name": "Pikachu-Bot",
+  "name": "taurus_bot",
   "version": "2.0.0",
-  "description": "Pikachu whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./pikachu/bot.js",
+  "description": "taurus whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./taurus/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/muhammed-usrbot/taurus_bot.git"
   },
   "keywords": [
     "WhatsApp",
@@ -16,10 +16,10 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Ameer suhail / @phaticusthiccy",
+  "developer": "Muhammed / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com/muhammed-usrbot/taurus_bot/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
