@@ -10,132 +10,141 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/New-Project-95-8ED993F.png";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Ameer Suhail✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `━━◥꧁ད ᴍᴜʜᴀᴍᴍᴇᴅ ཌ꧂◤━━
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ameer Suhail 𝐛𝐨𝐭.
-            *Pikachu*
+ʜᴇʟʟᴏ ɪ'ᴍ ᴍᴜʜᴀᴍᴍᴇᴅ's ʙᴏᴛ ғᴏʀ sᴜᴘᴘᴏʀᴛ ᴜ
+            *ᴛᴀᴜʀᴜs ʙᴏᴛ*
 
-■□■□■□■□■□■□■□■□■□■□
-♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
-🍙𝙐𝙨𝙚➜ Downloads song for you.
-⚠️.song  baby love
+*ᴍᴇᴅɪᴀ ᴄᴏᴍᴍᴀɴᴅs*
+___________________
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -video <yt link>
-🍙𝙐𝙨𝙚➜ Downloads video from YouTube link.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-song <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Downloads song for you.
+➪ .song  baby love
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -insta <link>
-🍙𝙐𝙨𝙚➜   Downloads content from instagram.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-video <yt link>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Downloads video from YouTube link.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -yt<text>
-🍙𝙐𝙨𝙚➜   Gives you YT links.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -insta <link>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Downloads content from instagram.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -show <show name>
-🍙𝙐𝙨𝙚➜   Get info related to tv series and shows.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -yt<text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Gives you YT links.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -gif 
-🍙𝙐𝙨𝙚➜ Converts video to gif.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -show <show name>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Get info related to tv series and shows.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -tomp3 
-🍙𝙐𝙨𝙚➜ Converts video into audio.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-gif 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts video to gif.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -say <text>
-🍙𝙐𝙨𝙚➜ Converts text into voice.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-tomp3 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts video into audio.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -img <text>
-🍙𝙐𝙨𝙚➜ It sends image from google.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-say <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts text into voice.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -trt <language code>
-🍙𝙐𝙨𝙚➜ Translate the text you tag.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-img <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ It sends image from google.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wiki <text>
-🍙𝙐𝙨𝙚➜ It sends Wikipedia result.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-trt <language code>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Translate the text you tag.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -lyric <text>
-🍙𝙐𝙨𝙚➜ Finds the lyrics of the song.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-wiki <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ It sends Wikipedia result.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -covid <country code>
-🍙𝙐𝙨𝙚➜ Send the covid stats of your country.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-lyric <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Finds the lyrics of the song.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -weather <city>
-🍙𝙐𝙨𝙚➜ Tells you about the weather of your place.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-covid <country code>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Send the covid stats of your country.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -removebg 
-🍙𝙐𝙨𝙚➜ Removes the background of tge image.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-weather <city>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Tells you about the weather of your place.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -ocr
-🍙𝙐𝙨𝙚➜ Finds the text written on the image.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-removebg 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Removes the background of tge image.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
-🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-ocr
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Finds the text written on the image.
 
-■□■□■□■□■□Pikachu■□■□■□■□■□
-♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-wallpaper
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ It sends you random wallpaper.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
-🍙𝙐𝙨𝙚➜ It sends a random joke.
+◥꧁ད ᴛᴀᴜʀᴜʂ ʙᴏᴛ ཌ꧂◤
+
+*ғᴜɴ ᴄᴏᴍᴍᴀɴᴅs*
+_________________
+
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-joke 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ It sends a random joke.
  
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -meme <text>
-🍙𝙐𝙨𝙚➜ Cations the image into a meme.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-meme <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Cations the image into a meme.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -quote 
-🍙𝙐𝙨𝙚➜ It sends a random quote.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-quote 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ It sends a random quote.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -ss <website link>
-🍙𝙐𝙨𝙚➜ It sends the screenshot of the website.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-ss <website link>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ It sends the screenshot of the website.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -changesay <text>
-🍙𝙐𝙨𝙚➜ Converts text into changesay meme image.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-changesay <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts text into changesay meme image.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -trumpsay
-🍙𝙐𝙨𝙚➜ Convert text into Trump's tweet.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-trumpsay
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Convert text into Trump's tweet.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -compliment 
-🍙𝙐𝙨𝙚➜ Gives you a compliment.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-compliment 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Gives you a compliment.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -bitly <link>
-🍙𝙐𝙨𝙚➜   Shorten your link.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -bitly <link>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Shorten your link.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -dict 
-🍙𝙐𝙨𝙚➜   Dictionary [-dict en;anime]
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -dict 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Dictionary [-dict en;anime]
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -zodiac <leo> 
-🍙𝙐𝙨𝙚➜   Tells you about your horoscope.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -zodiac <leo> 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Tells you about your horoscope.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -qr <text>
-🍙𝙐𝙨𝙚➜   Converts text into qr code.
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -qr <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎   Converts text into qr code.
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -movie 
-🍙𝙐𝙨𝙚➜  Gives you info about movie.
-⚠️movie master
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -movie 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎  Gives you info about movie.
+➪ movie master
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
-🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime pikachu
-■□■□■□■□■Pikachu□■□■□■□■□■□
-♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎ -anime <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎  Gives you info about anime.
+➪ anime taurus
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
-🍙𝙐𝙨𝙚➜ Converts img/gif into a sticker.
+◥꧁ད ᴛᴀᴜʀᴜʂ ʙᴏᴛ ཌ꧂◤
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -photo 
-🍙𝙐𝙨𝙚➜ Converts sticker into image.
+*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs*
+_____________________
 
-➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
-🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp pikachu
-■□■□■□■□■□■□■□■□■□■□
-═════💢Pikachu💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-sticker 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts img/gif into a sticker.
+
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-photo 
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts sticker into image.
+
+⌨︎ *[ᴄᴏᴍᴍᴀɴᴅ]* ☞︎︎︎-attp <text>
+☃︎ *[ᴜsᴇ]* ☞︎︎︎ Converts text into glowing sticker.
+➪ ex  attp taurus
+
+
+
+◥꧁ད ᴛᴀᴜʀᴜʂ ʙᴏᴛ ཌ꧂◤
+
+ᴍᴀᴅᴇ ʙʏ ᴍᴜʜᴀᴍᴍᴇᴅ
 
 `}) 
 
