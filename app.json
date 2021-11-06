@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
-            "description": "Asena session changed! Type your Pikachu code here.",
+            "description": "Asena session changed! Type your Taurus code here.",
             "required": true
         },
         "SUDO": {
