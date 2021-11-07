@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     
     
    
-  r_text[0] =https://www.linkpicture.com/q/TAURUSGFX.jpg;
+  r_text[0] =https:Config.LOGOSK;
     
     
     var i = Math.floor(1*Math.random())
