@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     
     
    
-  r_text[0] =https:Config.LOGOSK;
+  r_text[0] =https: Config.LOGOSK;
     
     
     var i = Math.floor(1*Math.random())
@@ -32,7 +32,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 │❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
-     *TAURUS BOT*
+     ` + Config.BOTSK + `
     
     ⚡ ` + Config.AFN + ` ⚡
 `}) 
