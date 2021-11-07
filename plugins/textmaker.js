@@ -760,7 +760,7 @@ Asena.addCommand({pattern: 'cup ?(.*)', fromMe: wk, dontAddCommandList: true}, (
     });
 }));
 Asena.addCommand({pattern: 'taurus ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
-    thiccysapi.photooxy("https://photooxy.com/logo-and-text-effects/create-harry-potter-text-on-horror-background-178.html",
+    thiccysapi.photooxy("https://textpro.me/create-glitch-text-effect-style-tik-tok-983.html",
         `${match[1]}`
         ).then(async (data) => { 
           try { 
