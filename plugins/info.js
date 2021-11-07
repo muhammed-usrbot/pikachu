@@ -14,25 +14,25 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     
     
    
-  r_text[0] = Config.LOGOSK;
+  r_text[0] =https://www.linkpicture.com/q/TAURUSGFX.jpg;
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.PLK +`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ``TAURUS BOT *BOT CREATED BY* ` + Config.PLK +`
     
-    ----- ` + Config.BOTSK + ` -----
+    ----- ```TAURUS BOT``` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
 │❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* :www.instagram.com/taurus_mp4
 │❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
-               ` + Config.BOTSK + `
+     *TAURUS BOT*
     
     ⚡ ` + Config.AFN + ` ⚡
 `}) 
