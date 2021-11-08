@@ -21,18 +21,18 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ``TAURUS BOT *BOT CREATED BY* ` + Config.PLK +`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `` + Config.BOTSK + ` *BOT CREATED BY* ` + Config.PLK +`
     
-    ----- ```TAURUS BOT``` -----
+    ----- ` + Config.BOTSK + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
 │❖ *ᴀᴜᴛʜᴏʀ* : ` + Config.PLK + `
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* :www.instagram.com/taurus_mp4
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
 │❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
-     *TAURUS BOT*
+               ` + Config.BOTSK + `
     
     ⚡ ` + Config.AFN + ` ⚡
 `}) 
