@@ -64,7 +64,7 @@ __________________
 #####
  
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/31VJJFX)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3CiLxp8)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/30waUXF)
