@@ -1,24 +1,26 @@
-<a href="https://bit.ly/3koZRGY"><img src="WLCMTRS1.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="TEFXG.gif" alt="GIF" width="200" height="200"/>
+        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
 
-## [![taurus_bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=899AFF&lines=Welcome+to+taurus+WA+Bot+repo;Created+by+Muhammed;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![taurus_bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="muhammed" src="https://img.shields.io/badge/muhammed-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+
 </p>
+       
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot/taurus_bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot/taurus_bot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a> to make it public
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -27,13 +29,13 @@ Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot<
 
 ----
 
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/taurus_mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
-<h4 align="center">SUBSCRIBE MY CHANNEL:</h4>
+<h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
 
@@ -46,37 +48,37 @@ Project created by <a href="https://github.com/muhammed-usrbot">muhammed-usrbot<
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
-## 
-  
 
     
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### Simple Method 
+__________________
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@muhammed-usrbot/Taurus-QR)
+#####
+ 
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus_bot.git)
-     </div>
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/31VJJFX)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/30waUXF)
+-------
 <br>
 <br >
- 
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/3oskv9U)
  
  <div align="left">
   
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+ ##### IF REPL.IT NOT WORKING TRY TERMUX FOR QR SCANNING. JUST COPY THIS LINK BELOW IN TERMUX 
+
 ```
 bash <(curl -L https://t.ly/tHxh)
 ```
@@ -107,7 +109,7 @@ $ node bot.js
 ```
 
 
-### ⚠️ Warning! 
+### Warning ⚠ ! 
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -115,7 +117,7 @@ Absolutely, taurus_bot executives do not accept responsibility.
 By establishing the taurus_bot, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
+## Developers 
   <div align="center">
     
   [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
@@ -124,18 +126,12 @@ By establishing the taurus_bot, you are deemed to have accepted these responsibi
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
-## Contributors
+## Contributer 
 `MUHAMMED`
-`Afnanplk`
-`Cyberchekuthan`
-`Farhan-Dqz`
-`Saidalisaid`
-`Souravkl11`
-`Ameer Suhail`
         
         
-## License
+## License 
 This project is protected by `GNU General Public Licence v3.0` license.
 
-### Disclaimer
+### Disclaimer 
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
