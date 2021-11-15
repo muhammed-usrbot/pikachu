@@ -48,7 +48,7 @@
 
 
 ##
-  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
+  <h3 align="center">Click wa logo to join our supporting group</h3>
 <p align="center">
   <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
