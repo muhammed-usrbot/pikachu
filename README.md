@@ -29,11 +29,11 @@
 
 ----
 
-<h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
+<h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
-<h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
+<h3 align="center">Support me:</h3>
 <p align="center">
 <a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
